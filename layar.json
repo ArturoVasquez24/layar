@@ -40,7 +40,7 @@
           "lat": 17.079785,
           "lon": -96.745234
         }
-      }, 
+      },
       "icon": {
         "url": "https://github.com/ArturoVasquez24/layar/blob/master/deportivo_tecnologico.jpg"
       },
@@ -51,5 +51,5 @@
     }
 
   ],
-  "layer": "tecnologiasax9e"
+  "layer": "layerdeportisq5e"
 }
