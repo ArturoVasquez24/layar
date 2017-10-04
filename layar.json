@@ -1,0 +1,55 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.070448,
+          "lon": -96.713566
+        }
+      },
+      "icon": {
+        "url": "https://github.com/ArturoVasquez24/layar/blob/master/estadio_beisbol.jpg"
+      },
+      "id": 1,
+      "text": {
+        "title": "Estadio Eduardo Vasconcelos"
+      }
+    },
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.066895,
+          "lon": -96.712337
+        }
+      },
+      "icon": {
+        "url": "https://github.com/ArturoVasquez24/layar/blob/master/polideportivo.jpg"
+      },
+      "id": 2,
+      "text": {
+        "title": "Polideportivo Venustiano Carranza"
+      }
+    },
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.079785,
+          "lon": -96.745234
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/ArturoVasquez24/layar/blob/master/deportivo_tecnologico.jpg"
+      },
+      "id": 3,
+      "text": {
+        "title": "Unidad Deportiva del Instituto Tecnológico de Oaxaca"
+      }
+    }
+
+  ],
+  "layer": "tecnologiasax9e"
+}
