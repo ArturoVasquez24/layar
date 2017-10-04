@@ -15,8 +15,7 @@
       "id": 1,
       "text": {
         "title": "Estadio Eduardo Vasconcelos",
-        "description": "El Estadio Eduardo Vasconcelos es la sede de un equipo de béisbol de Oaxaca. Dicho estadio
-        fue construido en 1950 y reinaugurado el 14 de Marzo de 1996, Tiene una capacidad para 7200 espectadores."
+        "description": "El Estadio Eduardo Vasconcelos es la sede de un equipo de béisbol de Oaxaca. Dicho estadio fue construido en 1950 y reinaugurado el 14 de Marzo de 1996, Tiene una capacidad para 7200 espectadores."
       }
     },
 
@@ -33,12 +32,7 @@
       "id": 2,
       "text": {
         "title": "Polideportivo Venustiano Carranza",
-        "description": "El Polideportivo Venustiano Carranza es un espacio público que está a dispocisión de
-        de deportistas de alto rendimiento así como de familias, en el que se pueden desarrollar diversas
-        disciplinas. Cuenta con tres canchas de fútbol, tres multifuncionales y dos canchas de frontón, una
-        pista de tartán con 1.5 kilómetros de longitud, ciclo pista y trota pista elevada, áreas de descanso y
-        juegos infantiles y áreas verdes; además de contar dentro del mismo espacio con el Centro de Recreación
-        y Acondicionamiento Deportivo (CRAD)."
+        "description": "El Polideportivo Venustiano Carranza es un espacio público que está a dispocisión de deportistas de alto rendimiento así como de familias, en el que se pueden desarrollar diversas disciplinas. Cuenta con tres canchas de fútbol, tres multifuncionales y dos canchas de frontón, una pista de tartán con 1.5 kilómetros de longitud, ciclo pista y trota pista elevada, áreas de descanso y juegos infantiles y áreas verdes; además de contar dentro del mismo espacio con el Centro de Recreación y Acondicionamiento Deportivo (CRAD)."
       }
     },
 
@@ -55,11 +49,7 @@
       "id": 3,
       "text": {
         "title": "Unidad Deportiva del Instituto Tecnológico de Oaxaca",
-        "description": "La Unidad Deportiva del Instituto Tecnológico de Oaxaca (ITO) brinda la oportunidad
-        de desarrollar disciplinas deportivas como el fútbol rápido y profesional, béisbol, basquetbol
-        atletismo e incluso el juego de pelota mixteca. Dentro del mismo espacio se tiene una alberca
-        semiolímpica, fosa con plataformas de clavados y una pista de trote. El también llamado Complejo
-        Deportivo Zona Poniente alberga un estadio de fútbol."
+        "description": "La Unidad Deportiva del Instituto Tecnológico de Oaxaca (ITO) brinda la oportunidad de desarrollar disciplinas deportivas como el fútbol rápido y profesional, béisbol, basquetbol atletismo e incluso el juego de pelota mixteca. Dentro del mismo espacio se tiene una alberca semiolímpica, fosa con plataformas de clavados y una pista de trote. El también llamado Complejo Deportivo Zona Poniente alberga un estadio de fútbol."
       }
     }
 
